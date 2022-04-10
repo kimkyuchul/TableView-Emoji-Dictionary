@@ -1,0 +1,1 @@
+# TableView-Emoji-Dictionary
